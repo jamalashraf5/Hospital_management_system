@@ -1,0 +1,19 @@
+body{
+	background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8,
+		#9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1
+		);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.paint-card {
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
+}
+
+.bg-custom {
+	background: #00695c !important;
+}
+.card-color{
+	background:  #dcedc8;
+}
